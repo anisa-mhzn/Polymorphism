@@ -1,5 +1,5 @@
 # Polymorphism in C++
-This repository consists basic C++ code covering the core idea of **Polymorphism** along with it's uses and properties. 
+This repository consists basic C++ code covering the core idea of **Polymorphism** along with it's uses, types and properties. 
 
 ## Purpose
 This repository is created for learning, understanding and practicing basic Polymorphism.
