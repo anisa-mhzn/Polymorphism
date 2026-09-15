@@ -14,10 +14,10 @@ This repository is created for learning, understanding and practicing basic Poly
 ## How to Run
 
 ### Compile<br>
-    - g++ static_polymorphism.cpp ~o static_polymorphism
+    - g++ static_polymorphism.cpp -o static_polymorphism
 
 ### Run
-    - ./static_polymorphism
+    - .\static_polymorphism
 - Replace the file name for whichever program you want to run.
 
 ## Author
